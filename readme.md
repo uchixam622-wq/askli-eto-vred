@@ -1,4 +1,4 @@
-Миссия 1 (Времена года)
+https://acmp.ru/index.asp?main=task&id_task=892
 Error
 Spring
 Spring
@@ -50,7 +50,7 @@ Autumn
 Autumn
 Summer
 
-задача 2
+https://acmp.ru/index.asp?main=task&id_task=757
 
 855
 785
@@ -103,8 +103,7 @@ Summer
 16
 4915568810
 
-зачада 3
-
+ https://acmp.ru/index.asp?main=task&id_task=26
 NO
 NO
 NO
