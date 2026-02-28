@@ -1,0 +1,3 @@
+- Миссия 1 (Времена года): https://acmp.ru/index.asp?main=task&id_task=892
+- Миссия 2 (Спирт): https://acmp.ru/index.asp?main=task&id_task=757
+- Миссия 3 (Мышка): https://acmp.ru/index.asp?main=task&id_task=907
